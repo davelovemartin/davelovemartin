@@ -15,12 +15,24 @@ I work for [cxpartners](https://www.cxpartners.co.uk), an experience design agen
 - ✍🏻 I write about indie hacking and learning in the open on [davelovemartin.dev](https://davelovemartin.dev).
 - 🔭 I’m currently creating a searchable library of javascript terms using Gatsby and Elasticlunr.
 
+## My toolset
 
-
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vue.svg" alt="Vue Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="Yarn Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="NPM Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/node.svg" alt="Node Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="Gatsby Logo" width="50" height="50"/>
 
 ---
 
 
-## &#x1f4c8; My GitHub Stats
+## My GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davelovemartin&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
