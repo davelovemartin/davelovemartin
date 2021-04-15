@@ -17,7 +17,7 @@ I work for [cxpartners](https://www.cxpartners.co.uk), an experience design agen
 
 ---
 
-https://img.shields.io/twitter/follow/davelovemartin?style=social
+![Twitter Follow](https://img.shields.io/twitter/follow/davelovemartin?style=social)
 
 ---
 
