@@ -16,6 +16,11 @@ I work for [cxpartners](https://www.cxpartners.co.uk), an experience design agen
 - 🔭 I’m currently creating a searchable library of javascript terms using Gatsby and Elasticlunr.
 
 
+
+
+---
+
+
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davelovemartin&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
