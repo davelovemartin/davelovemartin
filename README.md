@@ -15,8 +15,6 @@ I work for [cxpartners](https://www.cxpartners.co.uk), an experience design agen
 - ✍🏻 I write about indie hacking and learning in the open on [davelovemartin.dev](https://davelovemartin.dev).
 - 🔭 I’m currently creating a searchable library of javascript terms using Gatsby and Elasticlunr.
 
----
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/davelovemartin?style=social)
 
 ---
