@@ -10,7 +10,7 @@
 
 ## Side project
 
-- ✍🏻 I write about indie hacking and learning in the open on [davelovemartin.dev](https://davelovemartin.dev).
+- ✍🏻 I write about productivity and learning in the open on [davelovemartin.dev](https://davelovemartin.dev).
 - 🔭 I’m currently creating a searchable library of javascript terms.
 
 ---
