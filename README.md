@@ -6,6 +6,7 @@
 
 ## Day job
 
+- Frontend Engineer at StatsBomb 💣
 
 ## Side project
 
