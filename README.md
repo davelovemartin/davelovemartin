@@ -1,6 +1,6 @@
 # @davelovemartin
 
-...updating...
+ ✨ experience engineer and data visualisations ✨
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/davelovemartin?style=social)
 
