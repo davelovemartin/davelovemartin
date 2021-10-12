@@ -10,7 +10,7 @@ Lead Creative Technologist at Immersive Labs
 
 ## Side project
 
-- ✍🏻 I write about productivity and learning in the open on [davelovemartin.dev](https://davelovemartin.dev).
+- ✍🏻 I write about building things and innovation on [davelovemartin.dev](https://davelovemartin.dev).
 
 ---
 
