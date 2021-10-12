@@ -1,17 +1,16 @@
 # @davelovemartin
 
- ✨ experience engineer and data visualisations ✨
+ ✨ build to learn... iterate to innovate ✨
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/davelovemartin?style=social)
 
 ## Day job
 
-...updating...
+Lead Creative Technologist at Immersive Labs
 
 ## Side project
 
 - ✍🏻 I write about productivity and learning in the open on [davelovemartin.dev](https://davelovemartin.dev).
-- 🔭 I’m currently creating a searchable library of javascript terms.
 
 ---
 
