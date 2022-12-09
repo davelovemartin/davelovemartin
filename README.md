@@ -6,7 +6,7 @@
 
 ## Day job
 
-Lead Creative Technologist at Immersive Labs
+Lead Frontend Engineer at Immersive Labs
 
 ## Side project
 
@@ -16,7 +16,7 @@ Lead Creative Technologist at Immersive Labs
 
 ## My toolset
 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/d3-2.svg" alt="D3 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/apple1.svg" alt="Apple Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/apple1.svg" alt="Apple Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/d3-2.svg" alt="D3 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
 
 ---
 
