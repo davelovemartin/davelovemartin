@@ -2,11 +2,10 @@
 
  ✨ build to learn... iterate to innovate ✨
 
-![Twitter Follow](https://img.shields.io/twitter/follow/davelovemartin?style=social)
 
 ## Day job
 
-Lead Frontend Engineer at Immersive Labs
+Lead Frontend Engineer at Mazuma Money
 
 ## Side project
 
